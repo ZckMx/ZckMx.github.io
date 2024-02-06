@@ -14,3 +14,7 @@ body{
 p{
     color:rgb(200, 192, 192)
 }
+#center-div{
+    display: flex;
+    justify-content: center;
+}
