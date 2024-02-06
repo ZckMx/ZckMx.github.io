@@ -5,3 +5,12 @@
     width: 341px;
     text-align: center;
 }
+body{
+    background-color:rgb(87,63,41);
+}
+#welcome-header{
+    color:floralwhite;
+}
+p{
+    color:rgb(200, 192, 192)
+}
