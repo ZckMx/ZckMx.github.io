@@ -5,8 +5,11 @@
     width: 341px;
     text-align: center;
 }
-body{
+#brown-body{
     background-color:rgb(87,63,41);
+}
+#dirt-body{
+    background-image: url("dirtbackground.png");
 }
 #welcome-header{
     color:floralwhite;
